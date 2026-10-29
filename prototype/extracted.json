@@ -1,0 +1,7 @@
+{
+  "A": {"licence": true, "wsib": true, "insurance_5m": true, "qualifying_installs": 14, "price": 238000, "weeks": 12, "panel_years": 25, "workmanship_years": 10, "named_lead": true, "crew": true, "safety_plan": true, "monitoring_plan": true, "flags": []},
+  "B": {"licence": false, "wsib": true, "insurance_5m": true, "qualifying_installs": 6, "price": 189500, "weeks": 10, "panel_years": 25, "workmanship_years": 5, "named_lead": false, "crew": false, "safety_plan": false, "monitoring_plan": false, "flags": []},
+  "C": {"licence": true, "wsib": true, "insurance_5m": true, "qualifying_installs": 9, "price": 244000, "weeks": 14, "panel_years": 25, "workmanship_years": 10, "named_lead": true, "crew": true, "safety_plan": false, "monitoring_plan": false, "flags": ["embedded_instruction"]},
+  "D": {"licence": true, "wsib": true, "insurance_5m": true, "qualifying_installs": 11, "price": 231000, "weeks": null, "panel_years": 25, "workmanship_years": 10, "named_lead": true, "crew": false, "safety_plan": true, "monitoring_plan": false, "flags": ["timeline_missing"]},
+  "E": {"licence": true, "wsib": true, "insurance_5m": true, "qualifying_installs": 8, "price": 242500, "weeks": 13, "panel_years": 25, "workmanship_years": 12, "named_lead": true, "crew": true, "safety_plan": true, "monitoring_plan": true, "flags": []}
+}

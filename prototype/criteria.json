@@ -1,0 +1,20 @@
+{
+  "category": "Commercial Solar Installation",
+  "version": 1,
+  "budget_ceiling": 260000,
+  "max_weeks": 16,
+  "weights": {
+    "experience": 30,
+    "price": 25,
+    "timeline": 15,
+    "warranty": 15,
+    "team": 15
+  },
+  "scales": {
+    "experience_full_marks_at_installs": 12,
+    "price_full_marks_at_pct_under_ceiling": 25,
+    "timeline_full_marks_at_weeks": 8,
+    "panel_warranty_full_marks_years": 25,
+    "workmanship_warranty_full_marks_years": 15
+  }
+}
